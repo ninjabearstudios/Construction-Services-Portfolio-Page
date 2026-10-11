@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-labelledby="title">
+  <title id="title">Construction Services Company</title>
+  <rect x="4" y="8" width="104" height="104" rx="12" fill="#f4af12"/>
+  <path d="M24 88V48L56 28L88 48V88H65V64H47V88Z" fill="#07080a"/>
+  <path d="M24 48L56 28L88 48" fill="none" stroke="#07080a" stroke-width="8" stroke-linejoin="round"/>
+  <text x="130" y="49" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="1" fill="#ffffff">CONSTRUCTION</text>
+  <text x="131" y="83" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2.5" fill="#f4af12">SERVICES COMPANY</text>
+</svg>
